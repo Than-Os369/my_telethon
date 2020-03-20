@@ -1,7 +1,7 @@
 import telebot
 import time
 
-bot_token = '1084425360:AAGo5SvFTerMg9YjI9wYSK9N3WT5KsVfA5A'
+bot_token = 'sorry but can\'t share the token'
 bot = telebot.TeleBot(token=bot_token)
 
 def find_at(msg):
